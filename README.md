@@ -24,5 +24,6 @@ Inicio
 			    ESCREVA("O resultado é:");
 		    		 ESCREVA(resultado);
 		FIM-SE
-		
+	
+	FIM-SE
 FIM
