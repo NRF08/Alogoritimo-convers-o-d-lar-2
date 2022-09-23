@@ -26,11 +26,3 @@ Inicio
 		FIM-SE
 		
 	FIM-SE
-
-FIM
-
-	
-	
-	
-	ESCREVA("O resultado é:");
-	ESCREVA(resultado);
