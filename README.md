@@ -18,11 +18,11 @@ Inicio
 	SENAO
 	  	SE(numero2 = 10) ENTAO
 			  ESCREVA("O resultado é:");
-		  	ESCREVA(resultado);
+		  		ESCREVA(resultado);
 	SENAO
-	    	SE(numero2>10) ENTAO
+	
 			    ESCREVA("O resultado é:");
-		    	ESCREVA(resultado);
+		    		 ESCREVA(resultado);
 		FIM-SE
 		
-	FIM-SE
+FIM
