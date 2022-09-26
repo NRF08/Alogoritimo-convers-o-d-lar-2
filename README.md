@@ -14,7 +14,7 @@ Inicio
 	resultado<-numero1*numero2;
 	
 	SE(numero2<10) ENTAO
-		ESCREVA("Não é possível fazer conversão. O valor convertido à ser convertido deve ser maior que 10");
+		ESCREVA("Não é possível fazer conversão. O valor à ser convertido deve ser maior que 10");
 	SENAO
 	  	SE(numero2 = 10) ENTAO
 			  ESCREVA("O resultado é:");
