@@ -16,15 +16,15 @@ Inicio
 		ESCREVA("Não é possível fazer conversão. O valor à ser convertido deve ser maior que 10");
 	SENAO
 	  	SE(numero2 = 10) ENTAO
+			  Resultado<-numero1*numero2;
 			  ESCREVA("O resultado é:");
 		  		ESCREVA(resultado);
 	SENAO
-	
+			    Resultado<-numero1*numero2;
 			    ESCREVA("O resultado é:");
 		    		 ESCREVA(resultado);
 		FIM-SE
 	
 	FIM-SE
 	
-	Resultado<-numero1*numero2;
 FIM
