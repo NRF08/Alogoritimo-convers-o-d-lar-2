@@ -3,7 +3,7 @@
 Declaração
 	numero1: decimal;
 	numero2: decimal;
-	resultado: decimal;
+	Resultado: decimal;
 
 Inicio
 
@@ -11,7 +11,6 @@ Inicio
 	LEIA(numero1);
 	ESCREVA("Digite o valor desejado para a conversão");
 	LEIA(numero2);
-	resultado<-numero1*numero2;
 	
 	SE(numero2<10) ENTAO
 		ESCREVA("Não é possível fazer conversão. O valor à ser convertido deve ser maior que 10");
@@ -26,4 +25,6 @@ Inicio
 		FIM-SE
 	
 	FIM-SE
+	
+	Resultado<-numero1*numero2;
 FIM
